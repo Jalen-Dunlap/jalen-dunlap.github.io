@@ -220,3 +220,7 @@ footer {
     position: absolute;
     right: 12px;
 }
+.embed {
+    width: 100%;
+    padding: 10%;
+}
