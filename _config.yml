@@ -5,8 +5,8 @@ logo:
 github: https://github.com/jalen-dunlap
 about: 
 
-baseurl: "https://jalen-dunlap.github.io/"
-url: "https://jalen-dunlap.github.io/"
+baseurl: "https://jalen-dunlap.github.io"
+url: "https://jalen-dunlap.github.io"
 
 allowsearch: false
 
