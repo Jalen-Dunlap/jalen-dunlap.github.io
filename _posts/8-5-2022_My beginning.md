@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content for posts  
+date: 2015-06-04
 categories: Update
 ---
 
