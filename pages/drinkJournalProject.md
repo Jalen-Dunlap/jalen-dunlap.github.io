@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drink Journal
-permalink: projects/drink-journal
+permalink: drink-journal
 ---
 
 Hello Project
