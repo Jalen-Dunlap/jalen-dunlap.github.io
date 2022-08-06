@@ -2,14 +2,14 @@
 	{
 		"name": "Drink Journal App",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "drink-journal",
 		"date": "Dec 2021",
 		"tags": ["Android","iOS"]
 	},
 	{
 		"name": "FPS TD Game",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "game-dev",
 		"date": "Aug 2022",
 		"tags": ["Unity","Game"]
 	}
