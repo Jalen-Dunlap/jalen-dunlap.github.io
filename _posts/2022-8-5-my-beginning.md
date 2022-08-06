@@ -2,7 +2,7 @@
 layout: post
 title: My Example Post  
 date: 2022-08-05
-categories: Update
+categories: update
 ---
 
 # Welcome to the beginning!
