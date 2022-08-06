@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My Example Post  
-date: 2015-06-04
-categories: Update
+date: 2022-08-05
+categories: update
 ---
 
 # Welcome to the beginning!
