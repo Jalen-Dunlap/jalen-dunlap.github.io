@@ -30,4 +30,6 @@ Once again I think minimal explanation is needed here as summarizing what a summ
 
 ## Next week's Goals or project of attack
 
-I really would like to refrain from burning out on any one project as that would derail the whole purpose of developing the things that I enjoy. So each week will have a target project for development. I will try to outline what the next project update will entail and the goals I am setting for myself.
+I really would like to refrain from burning out on any one project as that would derail the whole purpose of developing the things that I enjoy. So each week will have a target project for development. I will try to outline what the next project update will entail and the goals I am setting for myself. Along all of these sections I will try and show what I can for images and visuals to make it as interesting as possible
+
+If there are any ideas for signatures of signoffs that I should use please let me know.
