@@ -27,7 +27,7 @@ I think the header above states it all but items that are not fully developed or
 
 ### Summary of how I feel development went this week
 
-Once again I think a minimal explanation is needed here as summarizing what a summary seems a little redundant. :D
+Once again I think a minimal explanation is needed here as summarizing what a summary is, seems a little redundant. :D
 
 ## Next week's Goals or project of attack
 
