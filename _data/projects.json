@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Drink Journal App",
-		"image": "assets/drinkJournalAppIcon.jpg",
+		"image": "drinkJournalAppIcon.jpg",
 		"url": "drink-journal",
 		"date": "Dec 2021",
 		"tags": ["Android","iOS"]
