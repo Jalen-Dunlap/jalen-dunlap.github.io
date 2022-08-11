@@ -13,6 +13,9 @@ Welcome back! This is the first week of having something to report on my journey
 ## FPS Development following Unity Tutorial
 
 ### Success 1
+
+[Unity Training Course Comploeted](https://learn.unity.com/project/creator-kit-fps?uv=2020.3)
+
 ### Success 2
 ### Success 3
 
