@@ -31,11 +31,11 @@ I learned from this tutorial:
 - I should take pictures during develpoment so I can share them here, when I do these Dev Logs
 
 
-### Success 2
-### Success 3
+### Junior Programmer Pathway
+The next course I began is a Unity learning course to gain the necessary skills to become an entry-level Unity developer. I picked this pathway because it seemed to align most with my interests. The course covers a variety of practices and I was luckily able to test out of the initial coding learning since I already have basic coding knowledge.
 
-### Failure 1
-### Failure 2
+Here is the link for the homepage of the [Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer?tab=pathway_map) if you would like to read more in depth about the course itself.
+
 
 ### In Progress 1
 ### In Progress 2
