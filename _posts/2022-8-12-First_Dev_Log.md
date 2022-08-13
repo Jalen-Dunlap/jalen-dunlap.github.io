@@ -36,10 +36,23 @@ The next course I began is a Unity learning course to gain the necessary skills 
 
 Here is the link for the homepage of the [Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer?tab=pathway_map) if you would like to read more in depth about the course itself.
 
-
-### In Progress 1
-### In Progress 2
+#### What am I learning
+In this programmer pathway I am learning patience and common principles of game design. From what I can tell so far, I have enough coding knowledge to understand what is going on when code is being written and run. Where I fall short is in experience in properly utilizing the game engine's capabilities to do things I want the objects in the game to do by myself.
 
 ### Summary
+This week I accomplished a few things of note:
+- I need to work on getting art done if I want to develop my own game
+- Planning things out in bite sized pieces and finishing them before moving on is a must
+- I need more experience before I begin a game that I want to have extra polished and or popular
+
+With these things in mind I can look forward to the next week of continuing this training and getting better at this game development thing.
 
 ## Next Week Goals/Project
+This Junior Programmer Pathway seems to be a very long course, so this will probably be the topic of the next few logs that I post. I am fine with that and I hope to keep this log up to date with what I have learned and what I am doing at the moment to get better each step of the way. 
+
+My goal for next weeks log is to have the first quarter of the course done. With the experience from my past course and knowledge that I have currently, I think this is a realistic goal. I should be putting in 1-4 hours a day which can quickly add up to enough time to complete what I set up for myself.
+
+I look forward to writing again!
+
+Written by Jalen Dunlap
+August 12, 2022
