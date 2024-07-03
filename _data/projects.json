@@ -16,7 +16,7 @@
 	{
 		"name": "Flick's Clicks Game",
 		"image": "Flick.jpg",
-		"url": "game-dev",
+		"url": "flickClick",
 		"date": "Jul 2024",
 		"tags": ["Godot","Game"]
 	}
